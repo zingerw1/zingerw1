@@ -84,5 +84,5 @@
 ### Full-Stack
 | Project | Description |
 |:-------:|:-----------|
-| [Tourism-Site](https://github.com/zingerw1/BlogApp) | A tourism full-stack project with backend and database integration. |
+| [Tourism-Site](https://github.com/zingerw1/Tourism-Project) | A tourism full-stack project with backend and database integration. |
 

@@ -71,7 +71,7 @@
 
 
 # Projects
- Web Apps
+ **Web Applications**
 
 ### Frontend
 | Project | Description |
@@ -82,4 +82,12 @@
 | Project | Description |
 |:-------:|:-----------|
 | [Tourism-Site](https://github.com/zingerw1/Noema-Tourism) | A tourism full-stack project with backend and database integration. |
+
+
+**Desktop Applications**
+
+
+
+**Mobile Applications**
+
 

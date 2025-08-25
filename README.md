@@ -79,7 +79,7 @@
 ### Frontend
 | Project | Description |
 |:-------:|:-----------|
-| [E-commerce-Site](https://github.com/zingerw1/E-commerce-Site) | An e-commerce responsive website built with HTML, CSS, and JavaScript. |
+| [E-commerce-Site](https://github.com/zingerw1/UnwindApparel-eCommerce) | An e-commerce responsive website built with HTML, CSS, and JavaScript. |
 
 ### Full-Stack
 | Project | Description |

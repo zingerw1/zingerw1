@@ -71,3 +71,18 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zingerw1/zingerw1/output/snake_light.svg" />
   <img src="https://raw.githubusercontent.com/zingerw1/zingerw1/output/snake_light.svg" alt="Snake animation" />
 </picture>
+
+
+# Projects
+ Web Apps
+
+### Frontend
+| Project | Description |
+|:-------:|:-----------|
+| [E-commerce-Site](https://github.com/zingerw1/E-commerce-Site) | An e-commerce responsive website built with HTML, CSS, and JavaScript. |
+
+### Full-Stack
+| Project | Description |
+|:-------:|:-----------|
+| [Tourism-Site](https://github.com/zingerw1/BlogApp) | A tourism full-stack project with backend and database integration. |
+

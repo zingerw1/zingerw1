@@ -90,7 +90,7 @@
 
 
 
-**Desktop Applications**
+**Desktop Applications (Windows)**
 
 ### Java
 | Project | Description | Difficulty | Tech Stack |
@@ -98,6 +98,6 @@
 | [Botsogo](https://github.com/zingerw1/Botsogo) | A comprehensive Java Swing-based hospital management system with role-based access and modern GUI interface. | ⭐⭐ (Intermediate) | Java, MySQL, |
 
 
-**Mobile Applications**
+**Mobile Applications (Android)**
 
 

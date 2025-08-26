@@ -76,12 +76,12 @@
 ### Frontend
 | Project | Description | Difficulty | Tech Stack |
 |:-------:|:-----------|:----------:|:-----------|
-| [E-commerce-Site](https://github.com/zingerw1/UnwindApparel-eCommerce) | An e-commerce responsive website built with HTML, CSS, and JavaScript. | ⭐ (Easy) | vanilla HTML, CSS, JavaScript |
+| [E-commerce-Site](https://github.com/zingerw1/UnwindApparel) | An e-commerce responsive website built with HTML, CSS, and JavaScript. | ⭐ (Easy) | vanilla HTML, CSS, JavaScript |
 
 ### Full-Stack
 | Project | Description | Difficulty | Tech Stack |
 |:-------:|:-----------|:----------:|:-----------|
-| [Tourism-Site](https://github.com/zingerw1/Noema-Tourism) | A tourism full-stack project with backend and database integration. | ⭐⭐ (Intermediate) |  React, Node.js, Express, MongoDB, MySQL, Tailwind CSS |
+| [Tourism-Site](https://github.com/zingerw1/Noema) | A tourism full-stack project with backend and database integration. | ⭐⭐ (Intermediate) |  React, Node.js, Express, MongoDB, MySQL, Tailwind CSS |
 
 
 

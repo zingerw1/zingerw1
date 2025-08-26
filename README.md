@@ -71,12 +71,21 @@
 
 
 # Projects
- **Web Applications**
+
+---
+
+## 🌐 Web Applications
+
+
+
 
 ### Frontend
 | Project | Description | Difficulty | Tech Stack |
 |:-------:|:-----------|:----------:|:-----------|
 | [UnwindApparel](https://github.com/zingerw1/UnwindApparel) | An e-commerce responsive website built with HTML, CSS, and JavaScript. | ⭐ (Easy) | vanilla HTML, Bootstrap CSS, JavaScript |
+
+
+
 
 ### Full-Stack
 | Project | Description | Difficulty | Tech Stack |
@@ -84,20 +93,22 @@
 | [Noema](https://github.com/zingerw1/Noema) | A tourism full-stack project with backend and database integration. | ⭐⭐ (Intermediate) |  React, Node.js, Express, MongoDB, MySQL, Tailwind CSS |
 
 
+---
+
+## 🖥️ Desktop Applications (Windows)
 
 
 
-
-
-
-**Desktop Applications (Windows)**
 
 ### Java
 | Project | Description | Difficulty | Tech Stack |
 |:-------:|:-----------|:----------:|:-----------|
 | [Botsogo](https://github.com/zingerw1/Botsogo) | A comprehensive Java Swing-based hospital management system with role-based access and modern GUI interface. | ⭐⭐ (Intermediate) | Java, MySQL, |
 
+---
 
-**Mobile Applications (Android)**
+
+
+## 📱 Mobile Applications (Android)
 
 

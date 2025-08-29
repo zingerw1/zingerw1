@@ -1,63 +1,5 @@
-<h2 align="left">Hi 👋! My name is Kagiso Setwaba and I'm a passionate Software Engineer & Cybersecurity Trainee, from Botswana</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zingerw1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zingerw1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://raw.githubusercontent.com/zingerw1/zingerw1/main/HeadSpinning.gif" />
-
-
-###
-
-
-<h3 align="left">Languages</h3>
-
-| HTML | CSS | JavaScript | TypeScript | Python | Java | C# | Kotlin |
-|:----:|:---:|:----------:|:----------:|:------:|:----:|:--:|:------:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/> |
-
-<h3 align="left">Frontend</h3>
-
-| React | Flutter | Bootstrap | Tailwind |
-|:-----:|:------:|:--------:|:--------:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/> |
-
-<h3 align="left">Backend</h3>
-
-| Node.js | Express | Firebase |
-|:-------:|:-------:|:--------:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/> |
-
-<h3 align="left">Databases</h3>
-
-| MongoDB | MySQL | Oracle |
-|:-------:|:----:|:------:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/> |
-
-<h3 align="left">Tools & Platforms</h3>
-
-| Git | Figma | Bash | AWS | Android | Postman |
-|:---:|:----:|:---:|:--:|:------:|:-------:|
-| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> |
-
-
-
-###
-
-<div align="left">
-  <a href="mailto:k.setwaba04@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/kagiso-setwaba-ab465b261/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
+# 💫 About Me:
+💻 Software Engineering student | <br>🛡️ Pentester | Red Teamer<br>🌐 Web & Network Security<br>🚀 Currently working on web app security projects and automation tools<br>🎮 Hobbies: gaming, coding challenges, and exploring new tech<br>📚 Always learning & staying updated on latest software & cybersecurity trends<br>
 
 ###
 
@@ -69,6 +11,11 @@
   <img src="https://raw.githubusercontent.com/zingerw1/zingerw1/output/snake_light.svg" alt="Snake animation" />
 </picture>
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KagisoSetwaba) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@z1ngerwinger) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:k.setwaba04@gmail.com) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
 # Projects
 
@@ -93,22 +40,16 @@
 | [Noema](https://github.com/zingerw1/Noema) | A tourism full-stack project with backend and database integration. | ⭐⭐ (Intermediate) |  React, Node.js, Express, MongoDB, MySQL, Tailwind CSS |
 
 
----
-
-## 🖥️ Desktop Applications (Windows)
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=zingerw1&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=zingerw1&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zingerw1&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-### Java
-| Project | Description | Difficulty | Tech Stack |
-|:-------:|:-----------|:----------:|:-----------|
-| [Botsogo](https://github.com/zingerw1/Botsogo) | A comprehensive Java Swing-based hospital management system with role-based access and modern GUI interface. | ⭐⭐ (Intermediate) | Java, MySQL, |
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=zingerw1&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
-
-
-
-## 📱 Mobile Applications (Android)
-
+[![](https://visitcount.itsvg.in/api?id=zingerw1&icon=1&color=12)](https://visitcount.itsvg.in)
 

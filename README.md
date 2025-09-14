@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Software Engineering student  <br>🛡️ Pentester | Red Teamer<br>🌐 Web & Network Security<br>🚀 Currently working on full stack web applications and java applications<br>🎮 Hobbies: gaming, coding challenges, and exploring new tech<br>📚 Always learning & staying updated on latest software & cybersecurity trends<br>
+💻 Software Engineering student  <br>🛡️ Pentester | Red Teamer<br>🌐 Web & Network Security<br>🚀 Currently working on full stack web applications , java and python applications<br>🎮 Hobbies: gaming, coding challenges, and exploring new tech<br>📚 Always learning & staying updated on latest software & cybersecurity trends<br>
 
 ###
 

@@ -40,7 +40,7 @@
 |:-------:|:-----------|:----------:|:-----------|
 | [Noema](https://github.com/zingerw1/Noema) | A tourism full-stack project with backend and database integration. | ⭐⭐ (Intermediate) |  React, Node.js, Express, MongoDB, MySQL, Tailwind CSS |
 
-### 🤖 Machine Learning / Data Projects
+## 🤖 Machine Learning / Data Projects
 | Project | Description | Difficulty | Tech Stack |
 |:-------:|:-----------|:----------:|:-----------|
 | [EPL Score Predictor](https://github.com/zingerw1/epl_score_predictor) | A web application predicting Premier League match goals using historical data (2000–2025). Features include team form, rolling stats, strength metrics, and XGBoost ML models with a Flask backend. | ⭐⭐ (Intermediate) | Python, Flask, XGBoost, Pandas, HTML/CSS/JS |

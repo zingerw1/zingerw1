@@ -76,6 +76,23 @@
 </td>
 <td width="50%">
 
+#### 🎓 [Primary-School-Administration](https://github.com/zingerw1/Primary-School-Administration)
+**School Management System**
+- Complete CRUD operations for students, teachers, classes
+- Grade management and reporting
+- Secure authentication with BCrypt
+- HikariCP connection pooling
+
+![Difficulty](https://img.shields.io/badge/Difficulty-Advanced-red?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Complete-success?style=flat-square)
+
+**Tech:** Java • Jakarta EE • MySQL • HikariCP • Maven
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 #### 🌍 [Noema](https://github.com/zingerw1/Noema)
 **Tourism Platform**
 - Full-stack MERN application

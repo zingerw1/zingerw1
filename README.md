@@ -133,28 +133,6 @@
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zingerw1&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" />
-<img width="49%" src="https://streak-stats.demolab.com?user=zingerw1&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zingerw1&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" />
-
-</div>
-
-<br/>
-
-## 🏆 Achievements
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=zingerw1&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7)
-
-</div>
-
-<br/>
 
 ## 🌐 Connect With Me
 

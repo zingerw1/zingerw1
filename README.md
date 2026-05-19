@@ -1,8 +1,8 @@
+
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=35&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Software+Engineer;Penetration+Tester;Cybersecurity+Enthusiast;Full-Stack+Developer)](https://git.io/typing-svg)
-
-### 👨‍💻 Software Engineer | 🛡️ Penetration Tester | 🚀 Full-Stack Developer
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zingerw1/zingerw1/output/snake_dark.svg" />
@@ -10,21 +10,39 @@
   <img src="https://raw.githubusercontent.com/zingerw1/zingerw1/output/snake_dark.svg" alt="Snake animation" />
 </picture>
 
+</div>
+
+<br/>
+
+<h2 align="center"> Cybersecurity</h2>
+
+<div align="center">
+
+[![HTB Profile](https://www.hackthebox.eu/badge/image/1969044)](https://app.hackthebox.com/users/1969044)
 
 </div>
 
 <br/>
 
-## 🛠️ Tech Stack
+<h2 align="center"> Stats</h2>
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
+[![GitHub Streak](https://streak-stats.demolab.com?user=zingerw1&theme=radical&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+</div>
+
+<br/>
+
+<h2 align="center">Tech Stack</h2>
+
+<div align="center">
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -35,112 +53,70 @@
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Databases
+### ML & Data Science
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=xgboost&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-</div>
-
-
-<br/>
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-### 🌐 Web Development
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🛍️ [UnwindApparel](https://github.com/zingerw1/UnwindApparel)
-**E-commerce Platform**
-- Responsive design with Bootstrap
-- Modern UI/UX
-- JavaScript interactivity
-
-![Difficulty](https://img.shields.io/badge/Difficulty-Beginner-green?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Complete-success?style=flat-square)
-
-**Tech:** HTML • CSS • JavaScript • Bootstrap
-
-</td>
-<td width="50%">
-
-#### 🎓 [Primary-School-Administration](https://github.com/zingerw1/Primary-School-Administration)
-**School Management System**
-- Complete CRUD operations for students, teachers, classes
-- Grade management and reporting
-- Secure authentication with BCrypt
-- HikariCP connection pooling
-
-![Difficulty](https://img.shields.io/badge/Difficulty-Advanced-red?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Complete-success?style=flat-square)
-
-**Tech:** Java • Jakarta EE • MySQL • HikariCP • Maven
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🌍 [Noema](https://github.com/zingerw1/Noema)
-**Tourism Platform**
-- Full-stack MERN application
-- RESTful API design
-- Modern responsive UI
-
-![Difficulty](https://img.shields.io/badge/Difficulty-Intermediate-yellow?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active-blue?style=flat-square)
-
-**Tech:** React • Node.js • Express • MongoDB • MySQL
-
-</td>
-</tr>
-</table>
-
-### 🤖 Machine Learning & Data
-
-<table>
-<tr>
-<td width="100%">
-
-#### ⚽ [EPL Score Predictor](https://github.com/zingerw1/epl_score_predictor)
-**Premier League Goal Prediction System**
-- XGBoost ML model for accurate predictions
-- Historical data analysis
-- Interactive Flask web interface
-
-![Difficulty](https://img.shields.io/badge/Difficulty-Intermediate-yellow?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Complete-success?style=flat-square)
-
-**Tech:** Python • Flask • XGBoost • Pandas • Scikit-learn
-
-</td>
-</tr>
-</table>
+### Security
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 
 </div>
 
 <br/>
 
-
-## 🌐 Connect With Me
+<h2 align="center"> Featured Projects</h2>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kagisosetwaba)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://kagisosec.hashnode.dev/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](#)
+### 🌐 Web & Full-Stack
+
+| Project | Description | Stack | Status |
+|:-------:|:-----------:|:-----:|:------:|
+| [🛍️ UnwindApparel](https://github.com/zingerw1/UnwindApparel) | E-commerce Platform | HTML • CSS • JS • Bootstrap | ![Complete](https://img.shields.io/badge/-Complete-success?style=flat-square) |
+| [🎓 School Admin](https://github.com/zingerw1/Primary-School-Administration) | Full CRUD school management with auth | Java • Jakarta EE • MySQL | ![Complete](https://img.shields.io/badge/-Complete-success?style=flat-square) |
+| [🌍 Noema](https://github.com/zingerw1/Noema) | Full-stack MERN tourism platform | React • Node • Express • MongoDB | ![Active](https://img.shields.io/badge/-Active-blue?style=flat-square) |
+
+### 🔴 Security & Tools
+
+| Project | Description | Stack | Status |
+|:-------:|:-----------:|:-----:|:------:|
+| [🔑 PasswordManager](https://github.com/zingerw1/PasswordManager) | Secure password manager | Go | ![Active](https://img.shields.io/badge/-Active-blue?style=flat-square) |
+| [💉 LFI_Tool](https://github.com/zingerw1/LFI_Tool) | Local File Inclusion exploitation tool | Python | ![Active](https://img.shields.io/badge/-Active-blue?style=flat-square) |
+| [🕷️ GraphQL_Tool](https://github.com/zingerw1/GraphQL_Tool) | GraphQL enumeration & attack tool | Python | ![Active](https://img.shields.io/badge/-Active-blue?style=flat-square) |
+| [🐧 linux_enum](https://github.com/zingerw1/linux_enum) | Linux privilege escalation enumeration | Shell | ![Active](https://img.shields.io/badge/-Active-blue?style=flat-square) |
+
+### 🤖 Machine Learning
+
+| Project | Description | Stack | Status |
+|:-------:|:-----------:|:-----:|:------:|
+| [⚽ EPL Predictor](https://github.com/zingerw1/epl_score_predictor) | XGBoost Premier League score predictor | Python • Flask • XGBoost • Pandas | ![Complete](https://img.shields.io/badge/-Complete-success?style=flat-square) |
+
+</div>
+
+<br/>
+
+<h2 align="center"> Connect</h2>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kagiso-s-ab465b261/)
+[![Blog](https://img.shields.io/badge/Blog-kagisosec.com-FF0000?style=for-the-badge&logo=rss&logoColor=white)](https://kagisosec.com/)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/1969044)
+
 
 </div>
 
@@ -148,17 +124,6 @@
 
 <div align="center">
 
+![Visitor Count](https://komarev.com/ghpvc/?username=zingerw1&style=for-the-badge&color=red)
 
-</div>
 
-<br/>
-
----
-
-<div align="center">
-
-**⭐ From [zingerw1](https://github.com/zingerw1) | Building secure solutions, one commit at a time**
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0&height=60&section=footer" />

@@ -87,7 +87,6 @@
 | Project | Description | Stack | Status |
 |:-------:|:-----------:|:-----:|:------:|
 | [🛍️ UnwindApparel](https://github.com/zingerw1/UnwindApparel) | E-commerce Platform | HTML • CSS • JS • Bootstrap | ![Complete](https://img.shields.io/badge/-Complete-success?style=flat-square) |
-| [🎓 School Admin](https://github.com/zingerw1/Primary-School-Administration) | Full CRUD school management with auth | Java • Jakarta EE • MySQL | ![Complete](https://img.shields.io/badge/-Complete-success?style=flat-square) |
 | [🌍 Noema](https://github.com/zingerw1/Noema) | Full-stack MERN tourism platform | React • Node • Express • MongoDB | ![Active](https://img.shields.io/badge/-Active-blue?style=flat-square) |
 
 ### 🔴 Security & Tools

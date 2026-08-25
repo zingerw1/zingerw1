@@ -78,35 +78,6 @@
 
 <br/>
 
-<h2 align="center"> Featured Projects</h2>
-
-<div align="center">
-
-### 🌐 Web & Full-Stack
-
-| Project | Description | Stack | Status |
-|:-------:|:-----------:|:-----:|:------:|
-| [🛍️ UnwindApparel](https://github.com/zingerw1/UnwindApparel) | E-commerce Platform | HTML • CSS • JS • Bootstrap | ![Complete](https://img.shields.io/badge/-Complete-success?style=flat-square) |
-| [🌍 Noema](https://github.com/zingerw1/Noema) | Full-stack MERN tourism platform | React • Node • Express • MongoDB | ![Active](https://img.shields.io/badge/-Active-blue?style=flat-square) |
-
-### 🔴 Security & Tools
-
-| Project | Description | Stack | Status |
-|:-------:|:-----------:|:-----:|:------:|
-| [🔑 PasswordManager](https://github.com/zingerw1/PasswordManager) | Secure password manager | Go | ![Active](https://img.shields.io/badge/-Active-blue?style=flat-square) |
-| [💉 LFI_Tool](https://github.com/zingerw1/LFI_Tool) | Local File Inclusion exploitation tool | Python | ![Active](https://img.shields.io/badge/-Active-blue?style=flat-square) |
-| [🕷️ GraphQL_Tool](https://github.com/zingerw1/GraphQL_Tool) | GraphQL enumeration & attack tool | Python | ![Active](https://img.shields.io/badge/-Active-blue?style=flat-square) |
-| [🐧 linux_enum](https://github.com/zingerw1/linux_enum) | Linux privilege escalation enumeration | Shell | ![Active](https://img.shields.io/badge/-Active-blue?style=flat-square) |
-
-### 🤖 Machine Learning
-
-| Project | Description | Stack | Status |
-|:-------:|:-----------:|:-----:|:------:|
-| [⚽ EPL Predictor](https://github.com/zingerw1/epl_score_predictor) | XGBoost Premier League score predictor | Python • Flask • XGBoost • Pandas | ![Complete](https://img.shields.io/badge/-Complete-success?style=flat-square) |
-
-</div>
-
-<br/>
 
 <h2 align="center"> Connect</h2>
 

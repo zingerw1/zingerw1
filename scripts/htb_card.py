@@ -265,7 +265,7 @@ def render(d):
 
 def render_badge(d):
     """Compact badge: avatar, name, rank, level and a thin XP bar."""
-    W, H = 420, 84
+    W, H = 510, 84
     roman = {"1": "I", "2": "II", "3": "III"}
     grade = roman.get(str(d["level_grade"]), str(d["level_grade"]))
     css = """
@@ -303,13 +303,14 @@ def render_badge(d):
     o.append(t(px + pw / 2, 33, rank, 9.5, LIME, MONO, 700, "middle", 'letter-spacing=".6"'))
 
     # Stats line
-    parts = [(f"#{d['ranking']}", FG), (" · ", MUTED), (f"{d['machines'][0]}", FG),
-             (" machines", DIM), (" · ", MUTED), (f"{d['sherlocks'][0]}", FG), (" sherlocks", DIM)]
+    parts = [(f"#{d['ranking']}", FG), (" · ", MUTED), (f"{d['machines'][0]}", FG), (" machines", DIM), (" · ", MUTED),
+             (f"{d['challenges'][0]}", FG), (" challenges", DIM), (" · ", MUTED),
+             (f"{d['sherlocks'][0]}", FG), (" sherlocks", DIM)]
     spans = "".join(f'<tspan fill="{c}">{escape(s)}</tspan>' for s, c in parts)
     o.append(f'<text x="82" y="55" font-family="{MONO}" font-size="10.5" xml:space="preserve">{spans}</text>')
 
     # XP bar to next level
-    bx, bw = 82, 196
+    bx, bw = 82, 306
     frac = max(0.0, min(1.0, d["level_xp"] / max(d["level_need"], 1)))
     o.append(f'<rect x="{bx}" y="64" width="{bw}" height="3" rx="1.5" fill="{LINE}"/>')
     o.append(f'<rect class="grow" x="{bx}" y="64" width="{max(bw * frac, 3):.1f}" height="3" rx="1.5" fill="{LIME}"/>')

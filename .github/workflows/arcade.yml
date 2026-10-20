@@ -2,13 +2,14 @@ name: arcade
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
   push:
     branches: [main]
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
   generate:
@@ -37,3 +38,11 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Re-enable this schedule on every run, so GitHub never auto-disables it
+      # after 60 days without repository activity
+      - name: Keep schedule alive
+        continue-on-error: true
+        run: gh api -X PUT "repos/${{ github.repository }}/actions/workflows/arcade.yml/enable"
+        env:
+          GH_TOKEN: ${{ github.token }}

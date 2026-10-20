@@ -13,7 +13,7 @@
 <br/><br/>
 
 <a href="https://app.hackthebox.com/public/users/1969044">
-  <img src="https://raw.githubusercontent.com/zingerw1/zingerw1/output/htb-badge.svg" width="420" alt="Hack The Box: zingerwinger, Pro Hacker, level 91" />
+  <img src="https://raw.githubusercontent.com/zingerw1/zingerw1/output/htb-badge.svg" width="510" alt="Hack The Box: zingerwinger, Pro Hacker, level 91" />
 </a>
 
 <br/><br/>

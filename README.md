@@ -10,6 +10,12 @@
 
 <br/><br/><br/>
 
+<a href="https://app.hackthebox.com/public/users/1969044">
+  <img src="https://raw.githubusercontent.com/zingerw1/zingerw1/output/htb-card.svg" width="100%" alt="Hack The Box stats for zingerwinger" />
+</a>
+
+<br/><br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zingerw1/zingerw1/output/pacman-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zingerw1/zingerw1/output/pacman-contribution-graph.svg" />

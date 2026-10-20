@@ -15,6 +15,14 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - uses: actions/checkout@v4
+
+      # Live Hack The Box card from HTB's public profile API (no token needed)
+      - name: HTB card
+        run: |
+          mkdir -p dist
+          python3 scripts/htb_card.py 1969044 dist/htb-card.svg https://raw.githubusercontent.com/${{ github.repository }}/output/htb-card.svg
+
       # All six arcade games, so swapping one in the README is a one-word change
       - uses: abozanona/pacman-contribution-graph@main
         with:

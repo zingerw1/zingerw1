@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=FF0000&center=true&vCenter=true&width=500&lines=Penetration+Tester;Active+Directory+%26+Web+Exploitation;Software+Engineer;Writing+at+kagisosec.com" alt="Penetration Tester, Software Engineer, writing at kagisosec.com" />
 </a>
 
+<br/><br/>
+
 <sub>
 <a href="https://kagisosec.com/">blog</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://app.hackthebox.com/users/1969044">hackthebox</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.linkedin.com/in/kagiso-s-ab465b261/">linkedin</a>
 </sub>

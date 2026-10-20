@@ -18,17 +18,17 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Live Hack The Box badge and card from HTB's public profile API (no token needed)
+      # Live Hack The Box badge from HTB's public profile API (no token needed)
       - name: HTB badge
         run: |
           mkdir -p dist
           python3 scripts/htb_card.py 1969044 dist https://raw.githubusercontent.com/${{ github.repository }}/output
 
-      # All six arcade games, so swapping one in the README is a one-word change
+      # Pac-Man eating the contribution graph
       - uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: "pacman,breakout,galaga,puzzle-bobble,bomberman,minesweeper"
+          games: "pacman"
           player_style: aggressive
 
       # Publish everything in dist/ to the output branch

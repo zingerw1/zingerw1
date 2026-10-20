@@ -16,12 +16,4 @@
   <img src="https://raw.githubusercontent.com/zingerw1/zingerw1/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man eating the contribution graph" />
 </picture>
 
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zingerw1/zingerw1/output/snake_dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zingerw1/zingerw1/output/snake_light.svg" />
-  <img src="https://raw.githubusercontent.com/zingerw1/zingerw1/output/snake_dark.svg" width="100%" alt="Snake eating the contribution graph" />
-</picture>
-
 </div>
